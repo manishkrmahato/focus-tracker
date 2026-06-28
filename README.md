@@ -213,13 +213,6 @@ On every push to `main`, the CI pipeline:
 4. Runs `python main.py --demo --fast` as an end-to-end smoke test
 
 To enable: push to GitHub -> Actions tab -> see the badge turn green.
-
-**Update the badge URL** in this README after creating your repo:
-
-```
-![Tests](https://github.com/manishkrmahato/focus-tracker/actions/workflows/tests.yml/badge.svg)
-```
-
 ---
 
 ## Configuration (`main.py`)
