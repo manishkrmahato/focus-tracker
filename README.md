@@ -60,7 +60,7 @@ FOCUS_TRACKER/
 ## Step 1 - Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/focus-tracker.git
+git clone https://github.com/manishkrmahato/focus-tracker.git
 cd focus-tracker
 pip install -r requirements.txt
 ```
