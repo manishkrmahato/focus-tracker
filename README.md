@@ -26,23 +26,23 @@
 
 ```
 FOCUS_TRACKER/
-├── main.py              ← Entry point - run this to start the system
-├── tracker.py           ← Cross-platform active window detector (Win/Mac/Linux)
-├── classifier.py        ← Rule-based + ML hybrid classification engine
-├── ai_model.py          ← TF-IDF + Logistic Regression model (train & predict)
-├── notifier.py          ← Cross-platform desktop popup + sound alert system
-├── demo_replay.py       ← Pre-recorded activity CSV replay engine (--demo)
-├── utils.py             ← CSV logging, session analytics, focus score
-├── dataset.csv          ← Labeled training data (STUDY / DISTRACTION / NEUTRAL)
-├── model.pkl            ← Pre-trained ML model (auto-loaded at runtime)
-├── activity_log.csv     ← Auto-generated session log with timestamps
-├── requirements.txt     ← Python dependencies
+├── main.py              <- Entry point - run this to start the system
+├── tracker.py           <- Cross-platform active window detector (Win/Mac/Linux)
+├── classifier.py        <- Rule-based + ML hybrid classification engine
+├── ai_model.py          <- TF-IDF + Logistic Regression model (train & predict)
+├── notifier.py          <- Cross-platform desktop popup + sound alert system
+├── demo_replay.py       <- Pre-recorded activity CSV replay engine (--demo)
+├── utils.py             <- CSV logging, session analytics, focus score
+├── dataset.csv          <- Labeled training data (STUDY / DISTRACTION / NEUTRAL)
+├── model.pkl            <- Pre-trained ML model (auto-loaded at runtime)
+├── activity_log.csv     <- Auto-generated session log with timestamps
+├── requirements.txt     <- Python dependencies
 ├── tests/
 │   ├── __init__.py
-│   └── test_classifier.py  ← 27 pytest tests
+│   └── test_classifier.py  <- 27 pytest tests
 └── .github/
     └── workflows/
-        └── tests.yml    ← GitHub Actions CI pipeline
+        └── tests.yml    <- GitHub Actions CI pipeline
 ```
 
 ---
@@ -217,7 +217,7 @@ To enable: push to GitHub -> Actions tab -> see the badge turn green.
 **Update the badge URL** in this README after creating your repo:
 
 ```
-![Tests](https://github.com/YOUR_USERNAME/focus-tracker/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/manishkrmahato/focus-tracker/actions/workflows/tests.yml/badge.svg)
 ```
 
 ---
