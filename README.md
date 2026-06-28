@@ -11,6 +11,8 @@
 
 ---
 
+![Demo](demo.gif)
+
 ## What's New (v3.0)
 
 | Feature        | Before                 | Now                                                             |
@@ -212,8 +214,7 @@ On every push to `main`, the CI pipeline:
 3. Runs all 27 pytest tests
 4. Runs `python main.py --demo --fast` as an end-to-end smoke test
 
-To enable: push to GitHub -> Actions tab -> see the badge turn green.
----
+## To enable: push to GitHub -> Actions tab -> see the badge turn green.
 
 ## Configuration (`main.py`)
 
