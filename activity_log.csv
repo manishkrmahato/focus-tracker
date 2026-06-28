@@ -1,0 +1,312 @@
+timestamp,app,title,category,duration_sec
+2026-04-06 17:14:55,code,main.py - focus_tracker - Visual Studio Code,STUDY,28.0
+2026-04-06 17:15:23,chrome,Study Distraction Alert System - Google Chrome,NEUTRAL,8.0
+2026-04-06 17:15:31,chrome,"Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman - YouTube - Google Chrome",DISTRACTION,24.0
+2026-04-06 17:16:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-06 17:16:41,chrome,"Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman - YouTube - Google Chrome",DISTRACTION,64.0
+2026-04-06 17:18:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-06 17:18:41,chrome,"Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman - YouTube - Google Chrome",DISTRACTION,74.0
+2026-04-06 17:19:55,code,main.py - focus_tracker - Visual Studio Code,STUDY,10.0
+2026-04-06 17:22:55,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-06 17:22:59,explorer,(no title),STUDY,2.0
+2026-04-06 17:23:01,msedge,New tab - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:23:03,msedge,Facebook - Personal - Microsoft​ Edge,STUDY,80.0
+2026-04-06 17:24:23,explorer,(no title),STUDY,4.0
+2026-04-06 17:24:27,shellexperiencehost,New notification,STUDY,2.0
+2026-04-06 17:24:29,explorer,(no title),STUDY,10.0
+2026-04-06 17:24:39,code,dataset.csv - focus_tracker - Visual Studio Code,STUDY,24.0
+2026-04-06 17:31:18,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-06 17:31:24,msedge,New tab - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:31:26,msedge,Facebook - Personal - Microsoft​ Edge,STUDY,38.0
+2026-04-06 17:32:04,msedge,New tab and 1 more page - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:32:06,msedge,YouTube and 1 more page - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:32:09,msedge,YouTube - Personal - Microsoft​ Edge,STUDY,8.0
+2026-04-06 17:32:17,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,78.0
+2026-04-06 17:33:35,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,STUDY,66.0
+2026-04-06 17:34:41,code,main.py - focus_tracker - Visual Studio Code,STUDY,16.0
+2026-04-06 17:35:53,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-06 17:35:57,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,36.0
+2026-04-06 17:36:33,code,main.py - focus_tracker - Visual Studio Code,STUDY,18.0
+2026-04-06 17:36:51,code,dataset.csv - focus_tracker - Visual Studio Code,STUDY,12.0
+2026-04-06 17:37:03,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,2.0
+2026-04-06 17:37:05,msedge,New tab and 1 more page - Personal - Microsoft​ Edge,STUDY,6.0
+2026-04-06 17:37:11,msedge,google news entertainment - Search and 1 more page - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-06 17:37:13,msedge,bing.com/ck/a?!&&p=82321073c862c364a5735bc6829e984441c80f5e0ec8eb2d863eae9c4ea7244fJmltdHM9MTc3NTQzMzYwMA&ptn=3&ver=2&hs,DISTRACTION,2.0
+2026-04-06 17:37:15,msedge,Google News - Entertainment - Latest and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,28.0
+2026-04-06 17:37:43,whatsapp.root,WhatsApp,DISTRACTION,6.0
+2026-04-06 17:37:49,explorer,(no title),STUDY,14.0
+2026-04-06 17:38:03,whatsapp.root,WhatsApp,DISTRACTION,28.0
+2026-04-06 17:38:31,explorer,(no title),STUDY,2.0
+2026-04-06 17:38:33,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,2.0
+2026-04-06 17:38:35,code,dataset.csv - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-06 17:38:41,whatsapp.root,WhatsApp,DISTRACTION,154.1
+2026-04-06 17:41:15,explorer,(no title),STUDY,16.0
+2026-04-06 17:41:31,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,8.0
+2026-04-06 17:41:39,code,dataset.csv - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-06 17:41:47,snippingtool,Snipping Tool Overlay,STUDY,4.0
+2026-04-06 17:41:51,code,dataset.csv - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-06 17:41:59,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,STUDY,522.2
+2026-04-06 17:50:41,chrome,"Rama | Namit Malhotra’s Ramayana | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer & A.R. Rahman - YouTube - Google Chrome",DISTRACTION,2.0
+2026-04-06 17:50:43,chrome,Study Distraction Alert System - Google Chrome,NEUTRAL,106.0
+2026-04-06 17:52:30,explorer,(no title),STUDY,2.0
+2026-04-06 17:52:32,msedge,New tab and 1 more page - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:52:34,msedge,ha - Search and 1 more page - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-06 17:52:36,msedge,"KALYUG! This Case is Beyond Disturbing..😰💔 Arshdeep & Samreen, Samay Raina, RCB vs CSK, Dhruv Rathee - YouTube - Persona",STUDY,2.0
+2026-04-06 17:52:38,msedge,ChatGPT and 1 more page - Personal - Microsoft​ Edge,STUDY,6.0
+2026-04-06 17:52:44,msedge,Notification and Distraction Detection and 1 more page - Personal - Microsoft​ Edge,STUDY,8.0
+2026-04-06 17:52:52,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,STUDY,58.0
+2026-04-06 17:53:50,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,STUDY,90.0
+2026-04-06 17:55:20,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,STUDY,14.0
+2026-04-06 17:55:34,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,STUDY,444.2
+2026-04-06 18:02:58,explorer,(no title),STUDY,2.0
+2026-04-06 18:03:00,explorer,Downloads and 1 more tab - File Explorer,NEUTRAL,8.0
+2026-04-06 18:03:08,explorer,Snap Assist,STUDY,4.0
+2026-04-06 18:03:12,explorer,Downloads and 1 more tab - File Explorer,NEUTRAL,58.0
+2026-04-06 18:04:10,explorer,focus_tracker and 1 more tab - File Explorer,NEUTRAL,4.0
+2026-04-06 18:04:35,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-06 18:04:43,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,12.0
+2026-04-06 18:04:55,msedge,New tab and 2 more pages - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:04:57,msedge,Facebook and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,14.0
+2026-04-06 18:05:11,msedge,New tab and 3 more pages - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:05:13,msedge,YouTube and 3 more pages - Personal - Microsoft​ Edge,DISTRACTION,8.0
+2026-04-06 18:05:21,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 3 more pages - Pe",DISTRACTION,74.0
+2026-04-06 18:06:35,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-06 18:06:39,python,🚨 STOP! Social Media Detected — Whatsapp.Root,DISTRACTION,8.0
+2026-04-06 18:06:47,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-06 18:06:51,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 3 more pages - Pe",DISTRACTION,2.0
+2026-04-06 18:06:53,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-06 18:06:57,explorer,(no title),NEUTRAL,4.0
+2026-04-06 18:07:01,code,main.py - focus_tracker - Visual Studio Code,STUDY,48.0
+2026-04-06 18:07:49,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 3 more pages - Pe",DISTRACTION,2.0
+2026-04-06 18:07:51,msedge,Facebook and 3 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-04-06 18:07:55,msedge,New tab and 3 more pages - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:07:57,msedge,Instagram and 3 more pages - Personal - Microsoft​ Edge,DISTRACTION,68.0
+2026-04-06 18:09:05,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 2 more pages - Pe",DISTRACTION,4.0
+2026-04-06 18:09:09,python,⚠️  Focus Alert #4 — Get Back to Work!,STUDY,6.0
+2026-04-06 18:09:15,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 2 more pages - Pe",DISTRACTION,2.0
+2026-04-06 18:09:17,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:09:19,code,main.py - focus_tracker - Visual Studio Code,STUDY,14.0
+2026-04-06 18:09:33,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,6.0
+2026-04-06 18:09:39,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,NEUTRAL,58.0
+2026-04-06 18:10:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,34.0
+2026-04-06 18:11:11,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:11:13,msedge,YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,62.0
+2026-04-06 18:12:15,msedge,Life in the JUNGLE without Internet - YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-04-06 18:12:19,python,⚠️  Focus Alert #5 — Get Back to Work!,STUDY,14.0
+2026-04-06 18:12:33,msedge,Life in the JUNGLE without Internet - YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,16.0
+2026-04-06 18:12:49,msedge,MOST crowded place in Shimla ￼￼😳 Shocking😍 3 idiots Shooting Place | Mall Road & Ridge - YouTube and 2 more pages - Pers,DISTRACTION,48.0
+2026-04-06 18:13:37,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 2 more pages - Pe",DISTRACTION,4.0
+2026-04-06 18:13:41,python,⚠️  Focus Alert #6 — Get Back to Work!,STUDY,2.0
+2026-04-06 18:13:43,msedge,"Gaurav Taneja’s Lavish Farmhouse! 200 Cows, Organic Ghee & Achaar Ke Saath Litti Chokha! - YouTube and 2 more pages - Pe",DISTRACTION,2.0
+2026-04-06 18:13:45,msedge,Date pe Chalein | Pranit More | Stand-up Comedy | Crowd Work Special - YouTube and 2 more pages - Personal - Microsoft​ ,DISTRACTION,44.0
+2026-04-06 18:14:29,msedge,The Ashleel Show Episode 4 | Pranit More | Stand-up Comedy | Crowd Work Special - YouTube and 2 more pages - Personal - ,DISTRACTION,8.0
+2026-04-06 18:14:37,msedge,New tab and 2 more pages - Personal - Microsoft​ Edge,NEUTRAL,4.0
+2026-04-06 18:14:41,msedge,Facebook and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,64.0
+2026-04-06 18:15:45,msedge,Distraction Detection System and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-06 18:15:47,msedge,YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,8.0
+2026-04-06 18:15:55,msedge,"Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr - YouTube and 2 mor",DISTRACTION,40.0
+2026-04-06 18:16:35,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-06 18:16:39,python,🚨 STOP! Social Media Detected — Whatsapp.Root,DISTRACTION,2.0
+2026-04-06 18:16:41,explorer,(no title),NEUTRAL,2.0
+2026-04-06 18:16:43,searchhost,Search,NEUTRAL,2.0
+2026-04-06 18:16:45,explorer,(no title),NEUTRAL,2.0
+2026-04-06 18:16:47,telegram,Telegram,DISTRACTION,2.0
+2026-04-06 18:16:49,python,🚨 STOP! Social Media Detected — Telegram,DISTRACTION,8.0
+2026-04-06 18:16:57,msedge,"Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr - YouTube and 2 mor",DISTRACTION,4.0
+2026-04-06 18:17:01,code,main.py - focus_tracker - Visual Studio Code,STUDY,24.0
+2026-04-06 18:17:25,msedge,"Bhooth Bangla -Official Trailer| Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 16 Apr - YouTube and 2 mor",DISTRACTION,78.0
+2026-04-06 18:18:44,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,NEUTRAL,10.0
+2026-04-06 18:18:54,chrome,Claude - Google Chrome,NEUTRAL,50.0
+2026-04-06 18:19:44,chrome,AI-powered focus tracker with distraction detection - Claude - Google Chrome,NEUTRAL,12.0
+2026-04-06 18:19:56,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-06 18:20:00,snippingtool,Snipping Tool Overlay,NEUTRAL,4.0
+2026-04-06 18:20:04,code,main.py - focus_tracker - Visual Studio Code,STUDY,16.0
+2026-04-07 00:01:55,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-07 00:01:59,msedge,New tab and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.1
+2026-04-07 00:02:01,msedge,Gmail and 2 more pages - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-07 00:02:03,msedge,Inbox (538) - manishkumarmahato2020@gmail.com - Gmail and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-07 00:02:05,msedge,New tab and 2 more pages - Personal - Microsoft​ Edge,NEUTRAL,4.0
+2026-04-07 00:02:09,msedge,Facebook and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,54.0
+2026-04-07 00:03:03,msedge,Inbox (538) - manishkumarmahato2020@gmail.com - Gmail and 1 more page - Personal - Microsoft​ Edge,NEUTRAL,2.0
+2026-04-07 00:03:05,msedge,YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,20.0
+2026-04-07 00:03:25,msedge,Elon Musk's real motive (What the media Can’t tell you) - YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-04-07 00:03:29,python,⚠️  Focus Alert #1 — Get Back to Work!,STUDY,2.0
+2026-04-07 00:03:31,msedge,Elon Musk's real motive (What the media Can’t tell you) - YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,10.0
+2026-04-07 00:03:41,msedge,Ramayana Lost already? Extreme hate & comparison with Varanasi - YouTube and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,90.0
+2026-04-07 00:49:10,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-07 00:49:14,msedge,Ramayana Lost already? Extreme hate & comparison with Varanasi - YouTube and 2 more pages - Personal - Microsoft​ Edge,STUDY,12.0
+2026-04-07 00:49:26,msedge,Elon Musk's real motive (What the media Can’t tell you) - YouTube and 2 more pages - Personal - Microsoft​ Edge,STUDY,78.0
+2026-04-07 00:50:44,code,main.py - focus_tracker - Visual Studio Code,STUDY,10.0
+2026-04-07 00:50:54,msedge,Elon Musk's real motive (What the media Can’t tell you) - YouTube and 2 more pages - Personal - Microsoft​ Edge,STUDY,10.0
+2026-04-07 14:02:07,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-07 14:02:11,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-07 14:02:15,explorer,(no title),STUDY,2.0
+2026-04-07 14:02:17,msedge,New tab - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-04-07 14:02:21,msedge,Facebook - Personal - Microsoft​ Edge,DISTRACTION,8.0
+2026-04-07 14:02:29,explorer,(no title),STUDY,4.0
+2026-04-07 14:02:33,telegram,Telegram,DISTRACTION,2.0
+2026-04-07 14:02:35,telegram,Telegram (9080),DISTRACTION,2.0
+2026-04-07 14:02:37,python,🚨 STOP! — Telegram Detected,DISTRACTION,10.0
+2026-04-07 14:02:47,code,main.py - focus_tracker - Visual Studio Code,STUDY,18.0
+2026-04-07 14:03:05,msedge,New tab - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 14:03:07,msedge,YouTube - Personal - Microsoft​ Edge,DISTRACTION,10.0
+2026-04-07 14:03:17,msedge,Testing The World's Biggest Bat ft Heinrich Klaasen - YouTube - Personal - Microsoft​ Edge,DISTRACTION,54.0
+2026-04-07 14:04:11,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-07 14:04:19,msedge,Testing The World's Biggest Bat ft Heinrich Klaasen - YouTube - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 14:04:21,explorer,(no title),STUDY,4.0
+2026-04-07 14:04:25,chrome,New Tab - Google Chrome,DISTRACTION,2.0
+2026-04-07 14:04:27,chrome,YouTube - Google Chrome,DISTRACTION,4.0
+2026-04-07 14:04:31,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-07 14:04:37,chrome,Google Chrome,STUDY,2.0
+2026-04-07 14:04:39,chrome,New Tab - Google Chrome,DISTRACTION,2.0
+2026-04-07 14:04:41,chrome,YouTube - Google Chrome,DISTRACTION,2.0
+2026-04-07 14:04:43,chrome,(18) YouTube - Google Chrome,DISTRACTION,2.0
+2026-04-07 14:04:45,chrome,(18) Operating System | OS in one shot | Complete GATE Course | Hindi #withsanchitsir - YouTube - Google Chrome,STUDY,10.0
+2026-04-07 14:04:55,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-07 14:05:01,chrome,(18) Operating System | OS in one shot | Complete GATE Course | Hindi #withsanchitsir - YouTube - Google Chrome,STUDY,12.0
+2026-04-07 14:05:13,chrome,(18) 18 BRUTAL Truths I wish someone told me as a Teenager...😢 - YouTube - Google Chrome,DISTRACTION,6.0
+2026-04-07 14:05:19,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-07 14:05:25,chrome,(18) 18 BRUTAL Truths I wish someone told me as a Teenager...😢 - YouTube - Google Chrome,DISTRACTION,14.0
+2026-04-07 14:05:39,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-07 14:11:57,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-07 14:12:01,searchhost,Search,STUDY,4.0
+2026-04-07 14:12:05,msedge,Facebook,DISTRACTION,8.0
+2026-04-07 14:12:13,msedge,App installed,STUDY,2.0
+2026-04-07 14:12:15,msedge,Facebook,DISTRACTION,8.0
+2026-04-07 14:12:23,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-07 14:12:31,searchhost,Search,STUDY,2.0
+2026-04-07 14:12:33,explorer,(no title),STUDY,2.0
+2026-04-07 14:12:35,windowsterminal,C:\WINDOWS\py.exe,STUDY,2.0
+2026-04-07 14:12:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-07 14:12:45,searchhost,Search,STUDY,4.0
+2026-04-07 14:12:49,msedge,Instagram,DISTRACTION,12.0
+2026-04-07 14:13:01,msedge,App installed,STUDY,4.0
+2026-04-07 14:13:05,msedge,Instagram,DISTRACTION,8.0
+2026-04-07 14:13:13,python,⚠️  Focus Alert #1 — Refocus!,STUDY,4.0
+2026-04-07 14:13:17,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-04-07 14:13:19,searchhost,Search,STUDY,4.0
+2026-04-07 14:13:23,msedge,Facebook - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 14:13:25,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-04-07 14:13:27,searchhost,Search,STUDY,2.0
+2026-04-07 14:13:29,msedge,Instagram - Personal - Microsoft​ Edge,DISTRACTION,10.0
+2026-04-07 14:13:39,searchhost,Search,STUDY,2.0
+2026-04-07 14:13:41,msedge,Untitled - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-07 14:13:43,msedge,Instagram - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-04-07 15:14:44,code,main.py - focus_tracker - Visual Studio Code,STUDY,46.0
+2026-04-07 15:15:30,searchhost,Search,STUDY,2.0
+2026-04-07 15:15:32,msedge,Instagram and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,6.0
+2026-04-07 15:15:38,msedge,New tab and 3 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-04-07 15:15:40,msedge,Instagram and 3 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 15:15:42,msedge,Instagram and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 15:15:44,searchhost,Search,STUDY,6.0
+2026-04-07 15:15:50,msedge,Instagram and 2 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-04-07 15:15:52,chrome,Running a project in VS Code - Claude - Google Chrome,STUDY,4.0
+2026-04-07 15:15:56,chrome,Instagram - Google Chrome,DISTRACTION,4.0
+2026-04-07 15:16:00,chrome,(1) Instagram - Google Chrome,DISTRACTION,16.0
+2026-04-07 15:16:16,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-04-07 15:16:24,whatsapp.root,WhatsApp,DISTRACTION,6.0
+2026-04-07 15:16:30,explorer,(no title),STUDY,26.0
+2026-04-07 15:16:56,chrome,(1) Instagram - Google Chrome,DISTRACTION,4.0
+2026-04-07 15:17:00,python,Focus Alert #2 — Refocus!,STUDY,4.0
+2026-04-07 15:17:04,chrome,(1) Instagram - Google Chrome,DISTRACTION,2.0
+2026-04-07 15:17:06,chrome,Running a project in VS Code - Claude - Google Chrome,STUDY,2.0
+2026-04-07 15:17:08,chrome,Fixing real-time alerts in distraction detection system - Claude - Google Chrome,STUDY,10.0
+2026-04-07 15:17:18,chrome,Running a project in VS Code - Claude - Google Chrome,STUDY,4.0
+2026-04-07 15:17:22,chrome,New Tab - Google Chrome,DISTRACTION,2.0
+2026-04-07 15:17:24,chrome,Instagram - Google Chrome,DISTRACTION,2.0
+2026-04-07 15:17:26,chrome,(1) Instagram - Google Chrome,DISTRACTION,20.0
+2026-04-07 15:17:46,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-07 15:17:52,chrome,(1) Instagram - Google Chrome,DISTRACTION,4.0
+2026-04-07 15:17:56,python,Focus Alert #3 — Refocus!,STUDY,4.0
+2026-04-07 15:18:00,explorer,(no title),STUDY,2.0
+2026-04-07 15:18:02,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-07 15:18:06,explorer,(no title),STUDY,2.0
+2026-04-07 15:18:08,searchhost,Search,STUDY,2.0
+2026-04-07 15:18:10,telegram,Telegram (9168),DISTRACTION,6.0
+2026-04-07 15:18:16,python,STOP! — Telegram Detected,DISTRACTION,8.0
+2026-04-07 15:18:24,chrome,(1) Instagram - Google Chrome,DISTRACTION,4.0
+2026-04-07 15:18:28,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-21 21:07:36,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-04-21 21:07:42,telegram,‎L!vè L!nk by Hype – (5726),DISTRACTION,2.0
+2026-04-21 21:07:44,explorer,(no title),STUDY,4.0
+2026-04-23 11:19:56,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-23 11:20:00,searchhost,Search,STUDY,2.0
+2026-04-23 11:20:02,explorer,(no title),STUDY,2.0
+2026-04-23 11:20:04,telegram,Telegram (1996),DISTRACTION,4.0
+2026-04-23 11:20:08,python,STOP! — Telegram Detected,DISTRACTION,4.0
+2026-04-23 11:20:12,explorer,(no title),STUDY,4.0
+2026-04-23 11:20:16,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-04-23 11:20:20,python,STOP! — Whatsapp.Root Detected,DISTRACTION,4.0
+2026-04-23 11:20:24,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-04-23 11:20:26,python,STOP! — Whatsapp.Root Detected,DISTRACTION,4.0
+2026-04-23 11:20:30,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-04-23 11:20:32,python,STOP! — Whatsapp.Root Detected,DISTRACTION,2.0
+2026-04-23 11:20:34,brave,Brave,STUDY,2.0
+2026-04-23 11:20:36,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-04-23 11:20:40,brave,"LYRICAL : I love You (Song) | Bodyguard | feat. Salman khan, Kareena Kapoor - YouTube - Brave",DISTRACTION,14.0
+2026-06-28 12:17:33,code,main.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 12:17:33,chrome,Stack Overflow - Python dict comprehension,STUDY,0.0
+2026-06-28 12:17:33,chrome,GeeksForGeeks - Binary Search Explained,STUDY,0.0
+2026-06-28 12:17:33,chrome,LeetCode - Two Sum,STUDY,0.0
+2026-06-28 12:17:33,chrome,YouTube - Funny Cat Compilation,DISTRACTION,0.0
+2026-06-28 12:17:33,chrome,YouTube - Meme Compilation 2024,DISTRACTION,0.0
+2026-06-28 12:17:33,chrome,YouTube - Python Tutorial for Beginners,STUDY,0.0
+2026-06-28 12:17:33,chrome,Netflix - Watch TV Shows Online,DISTRACTION,0.0
+2026-06-28 12:17:33,chrome,Instagram • Photos and Videos,DISTRACTION,0.0
+2026-06-28 12:17:33,whatsapp,WhatsApp,DISTRACTION,0.0
+2026-06-28 12:17:33,code,classifier.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 12:17:33,chrome,Coursera - Machine Learning Specialization,STUDY,0.0
+2026-06-28 12:17:33,chrome,Reddit - r/ProgrammerHumor,DISTRACTION,0.0
+2026-06-28 12:17:33,chrome,Spotify - Top Hits Playlist,NEUTRAL,0.0
+2026-06-28 12:17:33,chrome,GitHub - focus_tracker/main.py,STUDY,0.0
+2026-06-28 12:17:33,chrome,Amazon.in - Buy Headphones,DISTRACTION,0.0
+2026-06-28 12:17:33,code,utils.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 12:17:33,chrome,Claude - Google Chrome,STUDY,0.0
+2026-06-28 12:17:33,chrome,YouTube - OS Scheduling Algorithms Lecture,STUDY,0.0
+2026-06-28 12:17:33,chrome,Zomato - Order Food Online,DISTRACTION,0.0
+2026-06-28 13:00:33,msedge,Cross-platform window activity classifier with testing and deployment - Claude and 4 more pages - Personal - Microsoft​ ,STUDY,28.0
+2026-06-28 13:01:01,chrome,New repository - Google Chrome,STUDY,2.0
+2026-06-28 13:01:03,code,main.py - focus_tracker - Visual Studio Code,STUDY,22.0
+2026-06-28 13:01:25,msedge,Cross-platform window activity classifier with testing and deployment - Claude and 4 more pages - Personal - Microsoft​ ,STUDY,22.0
+2026-06-28 13:02:41,code,main.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 13:02:41,chrome,Stack Overflow - Python dict comprehension,STUDY,0.0
+2026-06-28 13:02:41,chrome,GeeksForGeeks - Binary Search Explained,STUDY,0.0
+2026-06-28 13:02:41,chrome,LeetCode - Two Sum,STUDY,0.0
+2026-06-28 13:02:41,chrome,YouTube - Funny Cat Compilation,DISTRACTION,0.0
+2026-06-28 13:02:41,chrome,YouTube - Meme Compilation 2024,DISTRACTION,0.0
+2026-06-28 13:02:41,chrome,YouTube - Python Tutorial for Beginners,STUDY,0.0
+2026-06-28 13:02:41,chrome,Netflix - Watch TV Shows Online,DISTRACTION,0.0
+2026-06-28 13:02:41,chrome,Instagram • Photos and Videos,DISTRACTION,0.0
+2026-06-28 13:02:41,whatsapp,WhatsApp,DISTRACTION,0.0
+2026-06-28 13:02:41,code,classifier.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 13:02:41,chrome,Coursera - Machine Learning Specialization,STUDY,0.0
+2026-06-28 13:02:41,chrome,Reddit - r/ProgrammerHumor,DISTRACTION,0.0
+2026-06-28 13:02:41,chrome,Spotify - Top Hits Playlist,NEUTRAL,0.0
+2026-06-28 13:02:41,chrome,GitHub - focus_tracker/main.py,STUDY,0.0
+2026-06-28 13:02:41,chrome,Amazon.in - Buy Headphones,DISTRACTION,0.0
+2026-06-28 13:02:41,code,utils.py - focus_tracker - VS Code,STUDY,0.0
+2026-06-28 13:02:41,chrome,Claude - Google Chrome,STUDY,0.0
+2026-06-28 13:02:41,chrome,YouTube - OS Scheduling Algorithms Lecture,STUDY,0.0
+2026-06-28 13:02:41,chrome,Zomato - Order Food Online,DISTRACTION,0.0
+2026-06-28 13:03:43,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-06-28 13:03:47,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 13:03:49,explorer,(no title),STUDY,10.0
+2026-06-28 13:03:59,msedge,Cross-platform window activity classifier with testing and deployment - Claude and 4 more pages - Personal - Microsoft​ ,STUDY,2.0
+2026-06-28 13:04:01,msedge,GitHub and 4 more pages - Personal - Microsoft​ Edge,STUDY,4.0
+2026-06-28 13:04:05,msedge,New tab and 5 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 13:04:07,msedge,YouTube and 5 more pages - Personal - Microsoft​ Edge,DISTRACTION,16.0
+2026-06-28 13:04:23,msedge,I Brought A Pagani Huyara In Forza Horizon 6😍 - YouTube and 5 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 13:04:27,python,Focus Alert #2 — Refocus!,STUDY,4.0
+2026-06-28 13:04:31,msedge,I Brought A Pagani Huyara In Forza Horizon 6😍 - YouTube and 5 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 13:04:35,msedge,New tab and 6 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 13:04:37,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,60.0
+2026-06-28 13:05:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,12.0
+2026-06-28 13:05:49,explorer,(no title),STUDY,2.0
+2026-06-28 13:05:51,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 13:05:55,python,Focus Alert #3 — Refocus!,STUDY,4.0
+2026-06-28 13:05:59,explorer,(no title),STUDY,2.0
+2026-06-28 13:06:01,code,main.py - focus_tracker - Visual Studio Code,STUDY,24.0
+2026-06-28 13:06:25,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-06-28 13:06:27,msedge,Cross-platform window activity classifier with testing and deployment - Claude and 6 more pages - Personal - Microsoft​ ,STUDY,22.0
+2026-06-28 13:06:49,explorer,(no title),STUDY,2.0
+2026-06-28 13:06:51,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0

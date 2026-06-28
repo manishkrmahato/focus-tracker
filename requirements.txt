@@ -1,0 +1,27 @@
+# requirements.txt
+# AI-Powered Focus Tracker - Python dependencies
+# Install with:  pip install -r requirements.txt
+
+#Core ML / NLP
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+#Cross-platform Window Detection
+# Replaces pywin32 (Windows-only) with cross-platform alternatives
+psutil>=5.9.0           # process utilities - Windows + macOS + Linux
+pygetwindow>=0.0.9      # window title/focus - Windows (optional, ctypes used directly)
+
+#Desktop Notifications 
+plyer>=2.1.0            # cross-platform toast notifications
+
+#Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Platform Notes
+# Windows:  winsound, ctypes are built into Python - no install needed
+#           pywin32 is NO LONGER required
+# macOS:    osascript (AppleScript) used via subprocess - no extra install
+# Linux:    Install xdotool for window detection: sudo apt install xdotool
+#           For sound alerts: sudo apt install pulseaudio-utils
