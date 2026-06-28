@@ -310,3 +310,151 @@ timestamp,app,title,category,duration_sec
 2026-06-28 13:06:27,msedge,Cross-platform window activity classifier with testing and deployment - Claude and 6 more pages - Personal - Microsoft​ ,STUDY,22.0
 2026-06-28 13:06:49,explorer,(no title),STUDY,2.0
 2026-06-28 13:06:51,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 15:55:02,code,main.py - focus_tracker - VS Code,STUDY,3.0
+2026-06-28 15:55:05,chrome,Stack Overflow - Python dict comprehension,STUDY,3.0
+2026-06-28 15:55:08,chrome,GeeksForGeeks - Binary Search Explained,STUDY,3.0
+2026-06-28 15:55:11,chrome,LeetCode - Two Sum,STUDY,2.0
+2026-06-28 15:55:13,chrome,YouTube - Funny Cat Compilation,DISTRACTION,2.0
+2026-06-28 15:55:15,chrome,YouTube - Meme Compilation 2024,DISTRACTION,3.0
+2026-06-28 15:55:18,chrome,YouTube - Python Tutorial for Beginners,STUDY,2.0
+2026-06-28 15:55:20,chrome,Netflix - Watch TV Shows Online,DISTRACTION,2.0
+2026-06-28 15:55:22,chrome,Instagram • Photos and Videos,DISTRACTION,2.0
+2026-06-28 15:55:24,whatsapp,WhatsApp,DISTRACTION,3.0
+2026-06-28 15:55:27,code,classifier.py - focus_tracker - VS Code,STUDY,3.0
+2026-06-28 15:55:30,chrome,Coursera - Machine Learning Specialization,STUDY,2.0
+2026-06-28 15:55:32,chrome,Reddit - r/ProgrammerHumor,DISTRACTION,2.0
+2026-06-28 15:55:34,chrome,Spotify - Top Hits Playlist,NEUTRAL,3.0
+2026-06-28 15:55:37,chrome,GitHub - focus_tracker/main.py,STUDY,2.0
+2026-06-28 15:55:39,chrome,Amazon.in - Buy Headphones,DISTRACTION,3.0
+2026-06-28 15:55:42,code,utils.py - focus_tracker - VS Code,STUDY,3.0
+2026-06-28 15:55:45,chrome,Claude - Google Chrome,STUDY,3.0
+2026-06-28 15:55:48,chrome,YouTube - OS Scheduling Algorithms Lecture,STUDY,2.0
+2026-06-28 15:55:50,chrome,Zomato - Order Food Online,DISTRACTION,0.0
+2026-06-28 16:16:23,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:16:31,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 16:16:33,explorer,(no title),STUDY,2.0
+2026-06-28 16:16:35,python,STOP! - Whatsapp.Root Detected,DISTRACTION,4.0
+2026-06-28 16:16:39,explorer,(no title),STUDY,2.0
+2026-06-28 16:16:41,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,8.0
+2026-06-28 16:16:49,explorer,(no title),STUDY,2.0
+2026-06-28 16:16:51,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-06-28 16:16:55,explorer,(no title),STUDY,2.0
+2026-06-28 16:16:57,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,2.0
+2026-06-28 16:16:59,python,Focus Alert #2 - Refocus!,STUDY,2.0
+2026-06-28 16:17:01,explorer,(no title),STUDY,2.0
+2026-06-28 16:17:03,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,4.0
+2026-06-28 16:17:07,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-06-28 16:17:11,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,8.0
+2026-06-28 16:17:19,explorer,(no title),STUDY,2.0
+2026-06-28 16:17:21,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:17:29,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,10.0
+2026-06-28 16:17:39,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,12.0
+2026-06-28 16:17:51,explorer,(no title),STUDY,2.0
+2026-06-28 16:17:53,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:17:57,python,Focus Alert #3 - Refocus!,STUDY,8.0
+2026-06-28 16:18:05,explorer,(no title),STUDY,2.0
+2026-06-28 16:18:07,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:18:11,snippingtool,Snipping Tool,STUDY,2.0
+2026-06-28 16:18:13,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-06-28 16:18:15,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 16:20:45,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:20:53,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 16:20:55,explorer,(no title),STUDY,2.0
+2026-06-28 16:20:57,python,STOP! - Whatsapp.Root Detected,DISTRACTION,4.0
+2026-06-28 16:21:01,explorer,(no title),STUDY,2.0
+2026-06-28 16:21:03,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:21:09,explorer,(no title),STUDY,2.0
+2026-06-28 16:21:11,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,2.0
+2026-06-28 16:21:13,system idle process,(no title),STUDY,2.0
+2026-06-28 16:21:15,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,6.0
+2026-06-28 16:21:21,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:21:27,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:21:31,python,Focus Alert #2 - Refocus!,STUDY,4.0
+2026-06-28 16:21:35,explorer,(no title),STUDY,2.0
+2026-06-28 16:21:37,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,6.0
+2026-06-28 16:21:43,code,main.py - focus_tracker - Visual Studio Code,STUDY,18.0
+2026-06-28 16:22:01,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,4.0
+2026-06-28 16:22:05,snippingtool,Recording toolbar,STUDY,4.0
+2026-06-28 16:22:09,msedge,GitHub Bio Suggestions and 6 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:22:11,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,8.0
+2026-06-28 16:22:19,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 16:22:21,python,STOP! - Whatsapp.Root Detected,DISTRACTION,2.0
+2026-06-28 16:22:23,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 16:22:25,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-06-28 16:22:29,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:22:31,chrome,manishkrmahato/focus-tracker: Distraction is the #1 enemy of student productivity. This tool watches your active windows,STUDY,2.0
+2026-06-28 16:22:33,chrome,New Tab - Google Chrome,DISTRACTION,2.0
+2026-06-28 16:22:35,chrome,youtube - Google Search - Google Chrome,DISTRACTION,4.0
+2026-06-28 16:22:39,chrome,Oops! Something went wrong. - YouTube - Google Chrome,DISTRACTION,2.0
+2026-06-28 16:22:41,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,4.0
+2026-06-28 16:22:45,snippingtool,Recording toolbar,STUDY,6.0
+2026-06-28 16:22:51,msedge,New tab and 7 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:22:53,msedge,YouTube and 7 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:22:57,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,32.0
+2026-06-28 16:23:29,msedge,Artificial Superintelligence Overview and 7 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:23:31,snippingtool,Recording toolbar,STUDY,2.0
+2026-06-28 16:23:33,explorer,(no title),STUDY,2.0
+2026-06-28 16:23:35,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,4.0
+2026-06-28 16:23:39,code,main.py - focus_tracker - Visual Studio Code,STUDY,4.0
+2026-06-28 16:23:43,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,10.0
+2026-06-28 16:23:53,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:23:59,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,4.0
+2026-06-28 16:24:03,python,Focus Alert #5 - Refocus!,STUDY,4.0
+2026-06-28 16:24:07,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,2.0
+2026-06-28 16:24:09,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 16:24:11,whatsapp.root,WhatsApp,DISTRACTION,3.0
+2026-06-28 16:24:14,python,STOP! - Whatsapp.Root Detected,DISTRACTION,2.0
+2026-06-28 16:24:16,explorer,(no title),STUDY,2.0
+2026-06-28 16:24:18,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 16:24:20,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 7 more pages - Personal - Microsoft​ Edge",DISTRACTION,2.0
+2026-06-28 16:24:22,msedge,Artificial Superintelligence Overview and 7 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:24:24,code,main.py - focus_tracker - Visual Studio Code,STUDY,10.0
+2026-06-28 16:24:34,snippingtool,Recording toolbar,STUDY,10.0
+2026-06-28 16:24:44,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 16:36:13,code,main.py - focus_tracker - Visual Studio Code,STUDY,10.0
+2026-06-28 16:36:23,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,6.0
+2026-06-28 16:36:29,explorer,(no title),STUDY,2.0
+2026-06-28 16:36:31,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:36:39,whatsapp.root,WhatsApp,DISTRACTION,4.0
+2026-06-28 16:36:43,python,STOP! - Whatsapp.Root Detected,DISTRACTION,4.0
+2026-06-28 16:36:47,explorer,(no title),STUDY,2.0
+2026-06-28 16:36:49,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:36:57,msedge,Artificial Superintelligence Overview and 6 more pages - Personal - Microsoft​ Edge,STUDY,2.0
+2026-06-28 16:36:59,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,2.0
+2026-06-28 16:37:01,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:37:07,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,12.0
+2026-06-28 16:37:19,chrome,Microsoft software engineering internship resume analysis - Claude - Google Chrome,STUDY,2.0
+2026-06-28 16:37:21,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,4.0
+2026-06-28 16:37:25,python,Focus Alert #2 - Refocus!,STUDY,4.0
+2026-06-28 16:37:29,explorer,(no title),STUDY,2.0
+2026-06-28 16:37:31,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:37:37,msedge,"50 YouTube Legends Fight For $1,000,000 - YouTube and 6 more pages - Personal - Microsoft​ Edge",DISTRACTION,2.0
+2026-06-28 16:37:39,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:37:43,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 16:37:49,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,8.0
+2026-06-28 16:37:57,code,main.py - focus_tracker - Visual Studio Code,STUDY,8.0
+2026-06-28 16:38:05,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,14.0
+2026-06-28 16:38:19,whatsapp.root,WhatsApp,DISTRACTION,2.0
+2026-06-28 16:38:21,python,STOP! - Whatsapp.Root Detected,DISTRACTION,2.0
+2026-06-28 16:38:23,explorer,(no title),STUDY,2.0
+2026-06-28 16:38:25,code,main.py - focus_tracker - Visual Studio Code,STUDY,2.0
+2026-06-28 16:38:27,msedge,Instagram and 6 more pages - Personal - Microsoft​ Edge,DISTRACTION,4.0
+2026-06-28 16:38:31,python,Focus Alert #4 - Refocus!,STUDY,4.0
+2026-06-28 16:38:35,system idle process,(no title),STUDY,2.0
+2026-06-28 16:38:37,code,main.py - focus_tracker - Visual Studio Code,STUDY,6.0
+2026-06-28 17:12:17,code,main.py - focus_tracker - VS Code,STUDY,3.0
+2026-06-28 17:12:20,chrome,Stack Overflow - Python dict comprehension,STUDY,3.0
+2026-06-28 17:12:23,chrome,GeeksForGeeks - Binary Search Explained,STUDY,3.0
+2026-06-28 17:12:26,chrome,LeetCode - Two Sum,STUDY,2.0
+2026-06-28 17:12:28,chrome,YouTube - Funny Cat Compilation,DISTRACTION,2.0
+2026-06-28 17:12:30,chrome,YouTube - Meme Compilation 2024,DISTRACTION,3.0
+2026-06-28 17:12:33,chrome,YouTube - Python Tutorial for Beginners,STUDY,2.0
+2026-06-28 17:12:35,chrome,Netflix - Watch TV Shows Online,DISTRACTION,2.0
+2026-06-28 17:12:37,chrome,Instagram • Photos and Videos,DISTRACTION,2.0
+2026-06-28 17:12:39,whatsapp,WhatsApp,DISTRACTION,3.0
+2026-06-28 17:12:42,code,classifier.py - focus_tracker - VS Code,STUDY,3.0
+2026-06-28 17:12:45,chrome,Coursera - Machine Learning Specialization,STUDY,2.0
+2026-06-28 17:12:47,chrome,Reddit - r/ProgrammerHumor,DISTRACTION,2.0
+2026-06-28 17:12:49,chrome,Spotify - Top Hits Playlist,NEUTRAL,3.0
+2026-06-28 17:12:52,chrome,GitHub - focus_tracker/main.py,STUDY,2.0
+2026-06-28 17:12:54,chrome,Amazon.in - Buy Headphones,DISTRACTION,3.0

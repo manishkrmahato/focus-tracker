@@ -13,6 +13,23 @@
 
 ![Demo](demo.gif)
 
+---
+
+## What You'll See in Action
+
+The system fires **two types of alerts** depending on the distraction:
+
+- **Immediate alert** - triggered the moment you open WhatsApp, Instagram, or any social media
+- **Threshold alert** - triggered after 15 seconds of continuous distraction on YouTube or Netflix
+
+| Dashboard             | WhatsApp Alert             |
+| --------------------- | -------------------------- |
+| ![Dashboard](fg1.png) | ![WhatsApp Alert](fg2.png) |
+
+| YouTube Alert             | Session Summary             |
+| ------------------------- | --------------------------- |
+| ![YouTube Alert](fg4.png) | ![Session Summary](fg1.png) |
+
 ## What's New (v3.0)
 
 | Feature        | Before                 | Now                                                             |
